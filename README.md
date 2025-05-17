@@ -46,13 +46,12 @@ Execute as células de cima para baixo
 Interaja livremente com o assistente 🧠
 
 💡 Próximos passos
+
 🧪 Validar com usuários reais
 
 🎨 Finalizar protótipo visual no Figma
 
 🌐 Publicar uma versão web interativa
-
-📊 Adicionar uma aba para comparar ativos (filtros de liquidez, dividendos, volatilidade)
 
 ❤️ Por que isso importa?
 Começar a investir ainda é algo elitizado, frio e muitas vezes assustador. O Guia da Bolsa quer mudar isso com empatia, dados e linguagem acessível.
